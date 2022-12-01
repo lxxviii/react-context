@@ -4,7 +4,7 @@ export default function Post() {
 
 
     const params = useParams()
-    console.log(params)
+    console.log("PARAMS", params)
 
     return (
         <div>
